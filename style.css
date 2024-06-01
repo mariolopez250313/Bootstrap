@@ -1,0 +1,19 @@
+div{
+height: 250px;
+background-color: lightgrey;
+color: white;
+font-size: 50px;
+margin: 20px;
+}
+
+ .carousel-inner{
+    width: auto;
+    height: 550PX;
+} 
+
+.footer {
+    background-color: #333; /* Fondo oscuro */
+    color: white; /* Texto en color blanco */
+    text-align: center;
+    padding: 10px 0;
+  }
